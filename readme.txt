@@ -1,2 +1,2 @@
-Git is version control sysytem.
+Git is distributed version control sysytem.
 Gir is free software.
